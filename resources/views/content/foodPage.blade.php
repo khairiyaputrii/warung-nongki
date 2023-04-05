@@ -12,11 +12,11 @@
             <img src="{{ asset('storage/images/'.$m['pic_file']) }}" style="max-height:350px; object-fit: cover">
             <div class="card-body">
                 <h5 class="card-title">{{ $m['name'] }}</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Rp. {{ $m['price'] }}</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Rp {{ $m['price'] }}</h6>
             </div>
         </div>
     </div>
     @endforeach
-    <h6 class="text-muted text-center col-12 p-5">Menu lainnya menanti...</h6>
+    <h6 class="text-muted text-center col-12 p-5">New menus will be updated!</h6>
 </div>
 @stop 

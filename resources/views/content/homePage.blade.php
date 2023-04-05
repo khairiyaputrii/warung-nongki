@@ -14,36 +14,36 @@
     <div class="p-3 d-flex flex-wrap ">
         <div class="p-2 col-md-6 col-12">
             <div class="card h-100">
-                <img src="{{ asset('images/warung_nongki_pusat.jpg') }}" alt="" class="card-img-top">
+                <img src="{{ asset('images/pusat.jpg') }}" alt="" class="card-img-top">
                 <div class="card-body">
-                  <h5 class="card-title">Warung Nongki Pusat</h5>
-                  <h6 class="card-subtitle mb-2 text-muted ">Kabarnya, udah ada 6 pasangan terjalin disini :D</h6>
+                  <h5 class="card-title">Warung Nongki Cafe Surabaya Timur</h5>
+                  <h6 class="card-subtitle mb-2 text-muted ">Located in Arief Rahman Hakim road</h6>
                 </div>
             </div>
         </div>
         
         <div class="p-2 col-md-6 col-12">
             <div class="card h-100">
-                <img src="{{ asset('images/warung_nongki_1.webp') }}" alt="" class="card-img-top">
+                <img src="{{ asset('images/cabang.jpg') }}" alt="" class="card-img-top">
                 <div class="card-body">
-                  <h5 class="card-title">Warung Nongki Cabang 1</h5>
-                  <h6 class="card-subtitle mb-2 text-muted ">Disini heboh banget, ada yang menyatakan cinta sambil main gitar</h6>
+                  <h5 class="card-title">Warung Nongki Cafe Surabaya Pusat</h5>
+                  <h6 class="card-subtitle mb-2 text-muted ">Located in Tunjungan road</h6>
                 </div>
             </div>
         </div>
         
     </div>
     
-    <p>Warung Nongki (WN) memiliki slogan <i>Togetherness is Everything</i>. Kami ingin mendekatkan pengunjung yang datang, baik keluarga, pasangan, gebetan dan teman.
-    Untuk mewujudkan hal tersebut, kami memiliki menu-menu yang murah dan simpel banget untuk dipesan. Sehingga, kalian ga perlu pusing mau ketemuan dimana.
-    Fasilitas kami mantap dan rapih-rapih, sehingga kalian bakal betah banget nongkrong disini. Sesuai dengan slogan kami, <i>Togetherness is Everything.</i></p>
+    <p>Our Warung Nongki (WN) cafe have 2 branches in Surabaya! They are located in Surabaya Timur (Arief Rahman Hakim Road) and Surabaya Pusat (Tunjungan Road). They both have a very different vibe 
+        the one in Surabaya Timur have outdoor and indoor place with a Monochrome and Wood aesthetic, while the one that is located in Surabaya Pusat only have indoor place with a minimalist vibes with 
+        some indoor plants!
+    </p>
     <hr>
     
-    <h3>Pembuat Website</h3>
-    <p>Dengan sepenuh hati, kami membuat website ini</p>
+    <h3>Website Creator</h3>
     <ul>
-        <li>Khairiya Maisa Putri</li>
-        <li>Raden Roro Kayla Angelica Priambudi</li>
+        <li>Khairiya Maisa Putri 5025211192</li>
+        <li>Raden Roro Kayla Angelica Priambudi 5025211262</li>
     </ul>
 </div>
 @stop
